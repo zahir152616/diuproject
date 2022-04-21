@@ -1,0 +1,44 @@
+.activity {
+    width: 100%;
+    height: auto;
+}
+
+.video{
+    text-align: center;
+}
+
+.video video{
+    border-radius: 15px ;
+    border: rgb(59, 59, 59) solid 5px;
+    box-shadow: 0 0 20px 5px rgb(121, 121, 121);
+    -webkit-border-radius: 15px ;
+    -moz-border-radius: 15px ;
+    -ms-border-radius: 15px ;
+    -o-border-radius: 15px ;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+
+.photos {
+    text-align: center !important;
+}
+
+.photos summary {
+    width: 27%;
+    margin: auto;
+}
+
+.photos div img {
+    width: 31% !important;
+    height: 40vh !important;
+    margin: 1.5% auto !important;
+    text-align: center !important;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

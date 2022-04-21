@@ -1,0 +1,56 @@
+.events {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2%;
+}
+
+.facebook {
+    text-align: center;
+    text-decoration: none;
+}
+.facebook h2{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.facebook img{
+    width: 80%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.facebook button{
+    width: 25%;
+    font-weight: bold;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+.facebook img:hover{
+    margin-bottom: 35px;
+    transition: all 0.5s;
+    transform: scale(1.05);
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+}
+.facebook button:hover{
+    transition: all .5s;
+    transform: scale(1.1);
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}

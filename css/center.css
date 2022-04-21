@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+
+html {
+    scroll-behavior: smooth;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+
+#ct {
+    background-color: black;
+    color: antiquewhite;
+    padding: 3px;
+    text-align: center;
+}
+
+.body {
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+
+.contain {
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    padding: .50% 0 1% 0;
+}
+
+.full-footer {
+    width: 100%;
+    height: auto;
+    bottom: 0;
+}
+
+.foot {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    padding-top: 10px;
+}
+
+.info {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+    background-color: black;
+    color: antiquewhite;
+    padding-bottom: 10px;
+}
+
+.navbar {
+    text-align: center;
+    width: 75%;
+    border-radius: 15px;
+    margin: 0 12.5% 0 12.5%;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.navbar button {
+    padding: 10px 20px 10px 20px;
+    font-size: 17px;
+    font-weight: 600;
+    transition: all .5s;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+
+.navbar button:hover {
+    box-shadow: rgb(81, 255, 0) 0px 0px 5px 0px;
+    transform: scale(.80);
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    -webkit-transform: scale(.80);
+    -moz-transform: scale(.80);
+    -ms-transform: scale(.80);
+    -o-transform: scale(.80);
+}

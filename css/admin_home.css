@@ -1,0 +1,19 @@
+h1,h2{
+    text-align: center;
+    font-weight: bold;
+}
+.navs{
+    text-align: center;
+    margin: 1.0% auto;
+    padding: 1.5%;
+}
+
+.navs button{
+    width: 30%;
+    margin: 1.15% 2%;
+    padding: 1.5% 5% 1.5% 5%;
+}
+
+.navs .last{
+    padding: 1.5% 10% 1.5% 10%;
+}

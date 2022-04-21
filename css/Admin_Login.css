@@ -1,0 +1,48 @@
+.admin_login {
+    width: 40%;
+    height: auto;
+    margin: 4% 0 5% 30%;
+    border-radius: 10px;
+    box-shadow: grey 0 0 5px 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.admin_login {
+    text-align: center;
+    padding:0 0 1% 0%;
+}
+
+.admin_login input {
+    padding: 10px 30px 10px 30px;
+    margin: 5px 10px 15px 0;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+.admin_login input:hover{
+    transform: scale(1.1);
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+#admin_name:hover, 
+#admin_pass:hover{
+    border-style:dashed ;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
